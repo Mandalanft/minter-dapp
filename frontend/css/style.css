@@ -164,6 +164,8 @@ section {
 
 #countdown {
   display: none;
+  width: 300;
+  height: 300;
   text-align: center;
 }
 
