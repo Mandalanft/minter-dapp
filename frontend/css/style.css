@@ -27,7 +27,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 600vh;
+  height: 200vh;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
@@ -319,7 +319,7 @@ section {
 .splide {
   position: absolute;
   top: 90px;
-  left: 5rem;
+  left: 10rem;
   z-index: -1;
 }
 
