@@ -27,7 +27,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 120vh;
+  height: 130vh;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 70%;
+  width: 75%;
 }
 
 /* SPINNER */
