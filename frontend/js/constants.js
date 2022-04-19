@@ -1,5 +1,5 @@
-const contractAddress = "0xeFEfC44F2139E2dd8F7ba25612C092f994321dd9"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x0ED61d02693f81f70aE2e40830e63e3E0c111bBA"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the AI Mandala NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
