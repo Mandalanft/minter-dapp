@@ -8,7 +8,7 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #861d90;
+  --bg-color: #45084a;
   --bg-color-transparent: #16439580;
   --font-color: #24ca07;
   --btn-bg-color: #bd1818;
@@ -27,7 +27,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 150vh;
+  height: 600vh;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
@@ -318,7 +318,7 @@ section {
 
 .splide {
   position: absolute;
-  top: 300px;
+  top: 90px;
   left: 5rem;
   z-index: -1;
 }
